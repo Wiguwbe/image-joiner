@@ -25,4 +25,10 @@ For every pixel: `pixel[n] = pixel[n] | ~gray[n];` or "a pixel binary OR'ed with
 
 ###### anyway...
 
-Have a day
+compile with `make`, modify `makefile` as you wish, use as `./tra_img <color image> <map image> <out image>`
+
+only supports P3/P6 netpbm formats, only tested on P6 formats
+
+---
+
+###### Have a day
