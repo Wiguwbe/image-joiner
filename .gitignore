@@ -1,0 +1,6 @@
+*.ppm
+*.jpg
+*.png
+*.tiff
+
+*.o
